@@ -1,0 +1,824 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-04-26T08:19:10Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107760650",
+        "building": "yes",
+        "frequency": "50",
+        "operator": "Stadtwerke Leipzig",
+        "power": "converter",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.3825539,
+              51.2956714
+            ],
+            [
+              12.3824526,
+              51.2956205
+            ],
+            [
+              12.3826766,
+              51.2954463
+            ],
+            [
+              12.3827779,
+              51.2954973
+            ],
+            [
+              12.3825539,
+              51.2956714
+            ]
+          ]
+        ]
+      },
+      "id": "way/107760650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/238553633",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1233657,
+              51.1075439
+            ],
+            [
+              13.1233714,
+              51.1075119
+            ],
+            [
+              13.123417,
+              51.1075151
+            ],
+            [
+              13.1234113,
+              51.1075471
+            ],
+            [
+              13.1233657,
+              51.1075439
+            ]
+          ]
+        ]
+      },
+      "id": "way/238553633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311836722",
+        "addr:city": "Leipzig",
+        "addr:housenumber": "155",
+        "addr:street": "Ratzelstraße",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2901782,
+              51.3128217
+            ],
+            [
+              12.2902299,
+              51.3127118
+            ],
+            [
+              12.2904995,
+              51.3127613
+            ],
+            [
+              12.2904477,
+              51.3128713
+            ],
+            [
+              12.2901782,
+              51.3128217
+            ]
+          ]
+        ]
+      },
+      "id": "way/311836722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319119002",
+        "branch": "ENSO",
+        "building": "yes",
+        "power": "converter",
+        "ref": "0855"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.7155922,
+              50.796418
+            ],
+            [
+              13.7156002,
+              50.7963956
+            ],
+            [
+              13.71564,
+              50.7963999
+            ],
+            [
+              13.7156329,
+              50.7964215
+            ],
+            [
+              13.7155922,
+              50.796418
+            ]
+          ]
+        ]
+      },
+      "id": "way/319119002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/372755345",
+        "building": "yes",
+        "power": "converter",
+        "ref": "1711"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1556661,
+              50.7694684
+            ],
+            [
+              13.1557072,
+              50.7694299
+            ],
+            [
+              13.1557376,
+              50.7694429
+            ],
+            [
+              13.1556965,
+              50.7694814
+            ],
+            [
+              13.1556661,
+              50.7694684
+            ]
+          ]
+        ]
+      },
+      "id": "way/372755345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392453098",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1384831,
+              51.1215622
+            ],
+            [
+              13.1383888,
+              51.1215636
+            ],
+            [
+              13.1383897,
+              51.1214977
+            ],
+            [
+              13.1384854,
+              51.1214963
+            ],
+            [
+              13.1384831,
+              51.1215622
+            ]
+          ]
+        ]
+      },
+      "id": "way/392453098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/402777107",
+        "building": "service",
+        "converter": "back-to-back",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.9807226,
+              50.9795504
+            ],
+            [
+              12.9805402,
+              50.9795639
+            ],
+            [
+              12.9805214,
+              50.9794828
+            ],
+            [
+              12.9807065,
+              50.9794693
+            ],
+            [
+              12.9807226,
+              50.9795504
+            ]
+          ]
+        ]
+      },
+      "id": "way/402777107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/677291991",
+        "building": "yes",
+        "height": "3",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.7857732,
+              50.7920928
+            ],
+            [
+              12.7858024,
+              50.7920661
+            ],
+            [
+              12.7858374,
+              50.7920814
+            ],
+            [
+              12.7858082,
+              50.7921081
+            ],
+            [
+              12.7857732,
+              50.7920928
+            ]
+          ]
+        ]
+      },
+      "id": "way/677291991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/815809544",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.2514026,
+              51.4328839
+            ],
+            [
+              14.2514026,
+              51.4328204
+            ],
+            [
+              14.2514563,
+              51.4328204
+            ],
+            [
+              14.2514563,
+              51.4328839
+            ],
+            [
+              14.2514026,
+              51.4328839
+            ]
+          ]
+        ]
+      },
+      "id": "way/815809544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026578534",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2935875,
+              51.1409325
+            ],
+            [
+              12.2935495,
+              51.1409251
+            ],
+            [
+              12.2935756,
+              51.1408719
+            ],
+            [
+              12.2936136,
+              51.1408792
+            ],
+            [
+              12.2935875,
+              51.1409325
+            ]
+          ]
+        ]
+      },
+      "id": "way/1026578534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026578535",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2936831,
+              51.1409495
+            ],
+            [
+              12.2936451,
+              51.1409422
+            ],
+            [
+              12.2936711,
+              51.1408889
+            ],
+            [
+              12.2937091,
+              51.1408962
+            ],
+            [
+              12.2936831,
+              51.1409495
+            ]
+          ]
+        ]
+      },
+      "id": "way/1026578535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026578536",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2934849,
+              51.1409135
+            ],
+            [
+              12.2934469,
+              51.1409062
+            ],
+            [
+              12.293473,
+              51.1408529
+            ],
+            [
+              12.293511,
+              51.1408603
+            ],
+            [
+              12.2934849,
+              51.1409135
+            ]
+          ]
+        ]
+      },
+      "id": "way/1026578536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026578537",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2935241,
+              51.1408361
+            ],
+            [
+              12.2934862,
+              51.1408288
+            ],
+            [
+              12.2935122,
+              51.1407755
+            ],
+            [
+              12.2935502,
+              51.1407829
+            ],
+            [
+              12.2935241,
+              51.1408361
+            ]
+          ]
+        ]
+      },
+      "id": "way/1026578537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026578538",
+        "building": "yes",
+        "description": "Insgesamt neun Wechselrichter",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2936244,
+              51.1408557
+            ],
+            [
+              12.2935864,
+              51.1408484
+            ],
+            [
+              12.2936125,
+              51.1407951
+            ],
+            [
+              12.2936505,
+              51.1408024
+            ],
+            [
+              12.2936244,
+              51.1408557
+            ]
+          ]
+        ]
+      },
+      "id": "way/1026578538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026578539",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2937213,
+              51.1408738
+            ],
+            [
+              12.2936833,
+              51.1408665
+            ],
+            [
+              12.2937094,
+              51.1408132
+            ],
+            [
+              12.2937474,
+              51.1408205
+            ],
+            [
+              12.2937213,
+              51.1408738
+            ]
+          ]
+        ]
+      },
+      "id": "way/1026578539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026578540",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2935781,
+              51.1407629
+            ],
+            [
+              12.2935402,
+              51.1407556
+            ],
+            [
+              12.2935662,
+              51.1407023
+            ],
+            [
+              12.2936042,
+              51.1407097
+            ],
+            [
+              12.2935781,
+              51.1407629
+            ]
+          ]
+        ]
+      },
+      "id": "way/1026578540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026578541",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2936636,
+              51.1407793
+            ],
+            [
+              12.2936256,
+              51.140772
+            ],
+            [
+              12.2936517,
+              51.1407187
+            ],
+            [
+              12.2936897,
+              51.1407261
+            ],
+            [
+              12.2936636,
+              51.1407793
+            ]
+          ]
+        ]
+      },
+      "id": "way/1026578541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026578542",
+        "building": "yes",
+        "power": "converter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2937575,
+              51.1407968
+            ],
+            [
+              12.2937195,
+              51.1407895
+            ],
+            [
+              12.2937456,
+              51.1407362
+            ],
+            [
+              12.2937836,
+              51.1407435
+            ],
+            [
+              12.2937575,
+              51.1407968
+            ]
+          ]
+        ]
+      },
+      "id": "way/1026578542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362188586",
+        "converter": "ac_converter",
+        "description": "ein statischer Umrichter mit 15 MW",
+        "frequency": "50;16.67",
+        "manufacturer": "GE Power Conversion",
+        "operator": "DB Energie GmbH",
+        "power": "converter",
+        "rating": "15 MW",
+        "voltage": "110000;15000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3700762,
+            51.4033056
+          ],
+          [
+            14.3700678,
+            51.4031654
+          ],
+          [
+            14.3701562,
+            51.4031633
+          ],
+          [
+            14.3702872,
+            51.4031602
+          ],
+          [
+            14.3702926,
+            51.4032505
+          ],
+          [
+            14.3702956,
+            51.4033004
+          ],
+          [
+            14.3702431,
+            51.4033017
+          ],
+          [
+            14.3700762,
+            51.4033056
+          ]
+        ]
+      },
+      "id": "way/362188586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362188587",
+        "converter": "ac_converter",
+        "description": "ein statischer Umrichter mit 15 MW",
+        "frequency": "50;16.67",
+        "manufacturer": "GE Power Conversion",
+        "operator": "DB Energie GmbH",
+        "power": "converter",
+        "rating": "15 MW",
+        "voltage": "110000;15000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3703535,
+            51.4032942
+          ],
+          [
+            14.370348,
+            51.4031594
+          ],
+          [
+            14.3704249,
+            51.4031582
+          ],
+          [
+            14.3705655,
+            51.4031559
+          ],
+          [
+            14.3705692,
+            51.4032463
+          ],
+          [
+            14.370571,
+            51.4032908
+          ],
+          [
+            14.3705209,
+            51.4032916
+          ],
+          [
+            14.3703535,
+            51.4032942
+          ]
+        ]
+      },
+      "id": "way/362188587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362188588",
+        "converter": "ac_converter",
+        "description": "ein statischer Umrichter mit 15 MW",
+        "frequency": "50;16.67",
+        "manufacturer": "GE Power Conversion",
+        "operator": "DB Energie GmbH",
+        "power": "converter",
+        "rating": "15 MW",
+        "voltage": "110000;15000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3706163,
+            51.4032915
+          ],
+          [
+            14.3706118,
+            51.4031511
+          ],
+          [
+            14.3706925,
+            51.4031501
+          ],
+          [
+            14.3708301,
+            51.4031484
+          ],
+          [
+            14.370833,
+            51.403239
+          ],
+          [
+            14.3708345,
+            51.4032888
+          ],
+          [
+            14.370793,
+            51.4032893
+          ],
+          [
+            14.3706163,
+            51.4032915
+          ]
+        ]
+      },
+      "id": "way/362188588"
+    }
+  ]
+}

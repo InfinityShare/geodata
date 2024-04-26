@@ -1,0 +1,5413 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-04-26T08:14:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/20118981",
+        "cables": "6",
+        "circuits": "2",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000",
+        "wires": "single"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3905232,
+            51.3675377
+          ],
+          [
+            12.3904996,
+            51.3676569
+          ],
+          [
+            12.3946039,
+            51.3679233
+          ],
+          [
+            12.3941758,
+            51.3691512
+          ],
+          [
+            12.3969201,
+            51.3695688
+          ],
+          [
+            12.397616,
+            51.3696747
+          ],
+          [
+            12.3966375,
+            51.371891
+          ],
+          [
+            12.3984614,
+            51.3721656
+          ],
+          [
+            12.4029107,
+            51.3739926
+          ],
+          [
+            12.4058064,
+            51.3742314
+          ],
+          [
+            12.4129895,
+            51.3734828
+          ],
+          [
+            12.4190443,
+            51.3728353
+          ]
+        ]
+      },
+      "id": "way/20118981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27910237",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "source": "Yahoo",
+        "voltage": "200000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5469742,
+            50.9779473
+          ],
+          [
+            13.5474262,
+            50.977365
+          ],
+          [
+            13.5479164,
+            50.9774782
+          ],
+          [
+            13.5496442,
+            50.9757715
+          ],
+          [
+            13.550311,
+            50.9759815
+          ],
+          [
+            13.5507212,
+            50.975578
+          ],
+          [
+            13.5516172,
+            50.9757997
+          ]
+        ]
+      },
+      "id": "way/27910237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47311521",
+        "layer": "-1",
+        "line": "minor",
+        "note": "guessed",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3223795,
+            50.8873539
+          ],
+          [
+            13.3220291,
+            50.8876024
+          ]
+        ]
+      },
+      "id": "way/47311521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106748440",
+        "description": "genauer Verlauf unbekannt - altes Kabel",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "ref": "0229",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6621727,
+            50.8617292
+          ],
+          [
+            13.6629577,
+            50.8629287
+          ]
+        ]
+      },
+      "id": "way/106748440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/134744230",
+        "cables": "3",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO",
+        "wires": "single"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.69076,
+            50.9080046
+          ],
+          [
+            13.6908028,
+            50.9080409
+          ],
+          [
+            13.6921721,
+            50.9080739
+          ],
+          [
+            13.6931471,
+            50.9078726
+          ],
+          [
+            13.694804,
+            50.9079745
+          ],
+          [
+            13.6955068,
+            50.9080483
+          ],
+          [
+            13.6960115,
+            50.9081574
+          ],
+          [
+            13.6988901,
+            50.9085868
+          ]
+        ]
+      },
+      "id": "way/134744230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/135886282",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "type": "electric",
+        "voltage": "400",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1368835,
+            51.1696162
+          ],
+          [
+            14.136481,
+            51.1698518
+          ],
+          [
+            14.1356991,
+            51.1703701
+          ],
+          [
+            14.133864,
+            51.1688255
+          ],
+          [
+            14.1323353,
+            51.167641
+          ],
+          [
+            14.1311588,
+            51.1664386
+          ],
+          [
+            14.1288456,
+            51.1639527
+          ],
+          [
+            14.1277466,
+            51.1627597
+          ],
+          [
+            14.1286238,
+            51.1619206
+          ],
+          [
+            14.128642,
+            51.1614733
+          ]
+        ]
+      },
+      "id": "way/135886282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172615142",
+        "description": "genauer Verlauf nicht bekannt",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "ref": "4535a",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5634854,
+            51.0132559
+          ],
+          [
+            13.5618389,
+            51.0176368
+          ]
+        ]
+      },
+      "id": "way/172615142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/180425587",
+        "description": "genauer Verlauf unbekannt",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "ref": "0119",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6585759,
+            50.8616647
+          ],
+          [
+            13.6565822,
+            50.8627285
+          ]
+        ]
+      },
+      "id": "way/180425587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187534878",
+        "cables": "3",
+        "power": "cable",
+        "tunnel": "yes",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0526367,
+            51.0780888
+          ],
+          [
+            14.0587612,
+            51.0795326
+          ],
+          [
+            14.0658443,
+            51.0814722
+          ],
+          [
+            14.0717771,
+            51.0822001
+          ]
+        ]
+      },
+      "id": "way/187534878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/191043168",
+        "description": "genauer Verlauf unbekannt - altes Kabel",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "ref": "0203, 0232",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6613571,
+            50.8563386
+          ],
+          [
+            13.6615189,
+            50.8563818
+          ],
+          [
+            13.6620998,
+            50.8565375
+          ],
+          [
+            13.6621909,
+            50.856552
+          ]
+        ]
+      },
+      "id": "way/191043168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203892852",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.7084453,
+            50.8795138
+          ],
+          [
+            13.7083759,
+            50.8795075
+          ],
+          [
+            13.7079994,
+            50.8788062
+          ],
+          [
+            13.7068909,
+            50.8789476
+          ],
+          [
+            13.7059796,
+            50.8790796
+          ],
+          [
+            13.7054358,
+            50.8791493
+          ],
+          [
+            13.703906,
+            50.8793605
+          ],
+          [
+            13.7018533,
+            50.8796244
+          ],
+          [
+            13.7005446,
+            50.8797997
+          ],
+          [
+            13.7002667,
+            50.8797997
+          ],
+          [
+            13.7002252,
+            50.879818
+          ]
+        ]
+      },
+      "id": "way/203892852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/205084781",
+        "cables": "3",
+        "frequency": "50",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.7693664,
+            50.8276422
+          ],
+          [
+            13.7700552,
+            50.8266261
+          ]
+        ]
+      },
+      "id": "way/205084781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/212748480",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.622358,
+            50.8705156
+          ],
+          [
+            13.6228603,
+            50.8703639
+          ]
+        ]
+      },
+      "id": "way/212748480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265623186",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7799996,
+            51.003496
+          ],
+          [
+            12.7805884,
+            51.0033462
+          ]
+        ]
+      },
+      "id": "way/265623186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/270852231",
+        "cables": "6",
+        "circuits": "2",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "name": "LzK-LzO4,LzK-LzO5",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3904899,
+            51.3417284
+          ],
+          [
+            12.3907957,
+            51.3417351
+          ],
+          [
+            12.3907789,
+            51.3422786
+          ],
+          [
+            12.3907748,
+            51.3423198
+          ],
+          [
+            12.3907701,
+            51.3423675
+          ],
+          [
+            12.3907152,
+            51.3436083
+          ],
+          [
+            12.3933666,
+            51.3444895
+          ],
+          [
+            12.3924879,
+            51.345509
+          ],
+          [
+            12.392093,
+            51.3465072
+          ],
+          [
+            12.3917838,
+            51.3472887
+          ],
+          [
+            12.3929959,
+            51.3477608
+          ],
+          [
+            12.3930736,
+            51.3476436
+          ]
+        ]
+      },
+      "id": "way/270852231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/270852233",
+        "cables": "6",
+        "circuits": "2",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "name": "LzI-LzS3,LzS-LzK5",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3930126,
+            51.3516611
+          ],
+          [
+            12.3894071,
+            51.3518778
+          ],
+          [
+            12.387176,
+            51.3528988
+          ],
+          [
+            12.3840885,
+            51.3519527
+          ],
+          [
+            12.3814339,
+            51.3531223
+          ],
+          [
+            12.3779524,
+            51.3515942
+          ],
+          [
+            12.378031,
+            51.3509273
+          ]
+        ]
+      },
+      "id": "way/270852233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279142307",
+        "cables": "6",
+        "circuits": "2",
+        "layer": "-1",
+        "location": "underground",
+        "note": "linie ist getrennt an den Windrädern",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO",
+        "wires": "single"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5771288,
+            51.022216
+          ],
+          [
+            13.5770594,
+            51.0223644
+          ]
+        ]
+      },
+      "id": "way/279142307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279540530",
+        "cables": "3",
+        "description": "Route 4",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "name": "Lützschena - Schkeuditz",
+        "operator": "Mitnetz Strom",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2863781,
+            51.4133769
+          ],
+          [
+            12.2864092,
+            51.4132555
+          ],
+          [
+            12.2864404,
+            51.4130952
+          ],
+          [
+            12.2865066,
+            51.4129396
+          ],
+          [
+            12.286625,
+            51.412792
+          ],
+          [
+            12.2870433,
+            51.4124634
+          ],
+          [
+            12.2871849,
+            51.4123391
+          ],
+          [
+            12.2872859,
+            51.4122171
+          ],
+          [
+            12.2873544,
+            51.4120886
+          ],
+          [
+            12.2874204,
+            51.4119138
+          ],
+          [
+            12.2881218,
+            51.4087277
+          ],
+          [
+            12.2896641,
+            51.4015803
+          ],
+          [
+            12.2896177,
+            51.4014483
+          ],
+          [
+            12.2895068,
+            51.4013263
+          ],
+          [
+            12.2893792,
+            51.401207
+          ],
+          [
+            12.2892354,
+            51.4011194
+          ]
+        ]
+      },
+      "id": "way/279540530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279697167",
+        "cables": "6",
+        "circuits": "2",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "Stadtwerke Leipzig",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4680661,
+            51.3718104
+          ],
+          [
+            12.4678701,
+            51.3717413
+          ],
+          [
+            12.4670439,
+            51.3714399
+          ],
+          [
+            12.4681949,
+            51.3702834
+          ],
+          [
+            12.460376,
+            51.3674747
+          ],
+          [
+            12.4563217,
+            51.3659481
+          ],
+          [
+            12.4511167,
+            51.3639881
+          ],
+          [
+            12.4488964,
+            51.3649154
+          ],
+          [
+            12.4472107,
+            51.3642315
+          ],
+          [
+            12.4457526,
+            51.3634062
+          ],
+          [
+            12.4443989,
+            51.3623074
+          ],
+          [
+            12.4437111,
+            51.3625425
+          ],
+          [
+            12.4417848,
+            51.3594076
+          ],
+          [
+            12.4335915,
+            51.3555168
+          ],
+          [
+            12.4316796,
+            51.3569562
+          ],
+          [
+            12.4312777,
+            51.3567688
+          ],
+          [
+            12.4280563,
+            51.3552761
+          ],
+          [
+            12.4273666,
+            51.3549451
+          ],
+          [
+            12.4273835,
+            51.3545033
+          ],
+          [
+            12.4254912,
+            51.3538685
+          ],
+          [
+            12.4244089,
+            51.3537112
+          ],
+          [
+            12.4240565,
+            51.35366
+          ],
+          [
+            12.4227135,
+            51.3536639
+          ],
+          [
+            12.4221529,
+            51.3538653
+          ]
+        ]
+      },
+      "id": "way/279697167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279704061",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "Stadtwerke Leipzig",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3464335,
+            51.3306922
+          ],
+          [
+            12.3465891,
+            51.3306184
+          ],
+          [
+            12.3484076,
+            51.331567
+          ],
+          [
+            12.3506983,
+            51.330538
+          ],
+          [
+            12.3516695,
+            51.3296008
+          ],
+          [
+            12.3536752,
+            51.3300974
+          ],
+          [
+            12.3556931,
+            51.3306362
+          ],
+          [
+            12.3601884,
+            51.3300341
+          ],
+          [
+            12.361588,
+            51.3296229
+          ],
+          [
+            12.3624839,
+            51.3289995
+          ],
+          [
+            12.3666338,
+            51.3296434
+          ],
+          [
+            12.3673907,
+            51.3278779
+          ],
+          [
+            12.3678354,
+            51.3279473
+          ]
+        ]
+      },
+      "id": "way/279704061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293725988",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "start_date": "2014",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6613571,
+            50.8563386
+          ],
+          [
+            13.6613775,
+            50.8562397
+          ],
+          [
+            13.6615763,
+            50.856046
+          ],
+          [
+            13.6620083,
+            50.8562201
+          ],
+          [
+            13.6620433,
+            50.8563183
+          ],
+          [
+            13.6621955,
+            50.8563923
+          ]
+        ]
+      },
+      "id": "way/293725988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293725990",
+        "description": "genauer Verlauf unbekannt - altes Kabel",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "ref": "0232",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6621727,
+            50.8617292
+          ],
+          [
+            13.6628462,
+            50.8629409
+          ]
+        ]
+      },
+      "id": "way/293725990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293861734",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "start_date": "2014",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6625432,
+            50.8564108
+          ],
+          [
+            13.6625474,
+            50.8563594
+          ]
+        ]
+      },
+      "id": "way/293861734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293861735",
+        "description": "altes Kabel",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.662583,
+            50.8564138
+          ],
+          [
+            13.6626357,
+            50.8564215
+          ]
+        ]
+      },
+      "id": "way/293861735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293861736",
+        "description": "altes Kabel",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6621955,
+            50.8563923
+          ],
+          [
+            13.6625432,
+            50.8564108
+          ]
+        ]
+      },
+      "id": "way/293861736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293861737",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "start_date": "2014",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6625661,
+            50.8563592
+          ],
+          [
+            13.6625523,
+            50.8565764
+          ]
+        ]
+      },
+      "id": "way/293861737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293861738",
+        "description": "altes Kabel",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6625523,
+            50.8565764
+          ],
+          [
+            13.6626355,
+            50.8565801
+          ]
+        ]
+      },
+      "id": "way/293861738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293861739",
+        "description": "genauer Verlauf unbekannt - altes Kabel",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6621909,
+            50.856552
+          ],
+          [
+            13.6625523,
+            50.8565764
+          ]
+        ]
+      },
+      "id": "way/293861739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293861740",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "start_date": "2014",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6625855,
+            50.8563589
+          ],
+          [
+            13.662583,
+            50.8564138
+          ]
+        ]
+      },
+      "id": "way/293861740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293861741",
+        "description": "genauer Verlauf unbekannt - altes Kabel",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6621955,
+            50.8563923
+          ],
+          [
+            13.6621326,
+            50.856388
+          ],
+          [
+            13.6620717,
+            50.8565241
+          ],
+          [
+            13.6621909,
+            50.856552
+          ]
+        ]
+      },
+      "id": "way/293861741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293861742",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "start_date": "2014",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6628462,
+            50.8629409
+          ],
+          [
+            13.6628662,
+            50.8625742
+          ],
+          [
+            13.6639029,
+            50.8626027
+          ],
+          [
+            13.6640012,
+            50.8625375
+          ],
+          [
+            13.6640878,
+            50.8626522
+          ],
+          [
+            13.66448,
+            50.8626673
+          ],
+          [
+            13.6645381,
+            50.8622245
+          ],
+          [
+            13.6646919,
+            50.8621514
+          ],
+          [
+            13.6647381,
+            50.8620586
+          ],
+          [
+            13.6648989,
+            50.8619729
+          ],
+          [
+            13.6653651,
+            50.8617156
+          ],
+          [
+            13.6653107,
+            50.8616812
+          ],
+          [
+            13.6652846,
+            50.861694
+          ],
+          [
+            13.665298,
+            50.8617049
+          ]
+        ]
+      },
+      "id": "way/293861742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293861743",
+        "description": "genauer Verlauf unbekannt - altes Kabel",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "ref": "0203, 0232",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6621909,
+            50.856552
+          ],
+          [
+            13.6619502,
+            50.8574038
+          ],
+          [
+            13.6619466,
+            50.8577183
+          ],
+          [
+            13.6619515,
+            50.8579213
+          ],
+          [
+            13.6619858,
+            50.8582379
+          ],
+          [
+            13.6620103,
+            50.8585063
+          ],
+          [
+            13.6620475,
+            50.8588199
+          ],
+          [
+            13.6620839,
+            50.8591077
+          ],
+          [
+            13.6621282,
+            50.8595213
+          ],
+          [
+            13.6621658,
+            50.8599428
+          ],
+          [
+            13.6621876,
+            50.8603405
+          ],
+          [
+            13.6621728,
+            50.8608289
+          ],
+          [
+            13.6621153,
+            50.8613399
+          ],
+          [
+            13.6620757,
+            50.8617338
+          ],
+          [
+            13.6621727,
+            50.8617292
+          ],
+          [
+            13.663061,
+            50.8617056
+          ],
+          [
+            13.663648,
+            50.8614183
+          ]
+        ]
+      },
+      "id": "way/293861743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318865618",
+        "cables": "3",
+        "circuits": "1",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000",
+        "wires": "single"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.7196894,
+            51.0525788
+          ],
+          [
+            13.7197082,
+            51.0526075
+          ],
+          [
+            13.7200569,
+            51.0525147
+          ],
+          [
+            13.7195741,
+            51.051751
+          ],
+          [
+            13.717773,
+            51.0506502
+          ],
+          [
+            13.71782,
+            51.0505436
+          ]
+        ]
+      },
+      "id": "way/318865618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318865623",
+        "cables": "6",
+        "circuits": "2",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "ref": "Anlage 160/9023;9024",
+        "source": "estimated / geschätzt",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8117086,
+            51.0280004
+          ],
+          [
+            13.812195,
+            51.0283245
+          ],
+          [
+            13.8168471,
+            51.0314244
+          ],
+          [
+            13.8151459,
+            51.0322755
+          ],
+          [
+            13.8160418,
+            51.0332755
+          ]
+        ]
+      },
+      "id": "way/318865623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329478818",
+        "layer": "-2",
+        "location": "underground",
+        "operator": "enviaM",
+        "power": "cable",
+        "source": "bing",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4295486,
+            51.4065586
+          ],
+          [
+            12.4295524,
+            51.4064074
+          ],
+          [
+            12.4285144,
+            51.4064091
+          ],
+          [
+            12.4284849,
+            51.4042624
+          ],
+          [
+            12.4301451,
+            51.4022863
+          ],
+          [
+            12.4301787,
+            51.4013709
+          ],
+          [
+            12.430022,
+            51.4012961
+          ]
+        ]
+      },
+      "id": "way/329478818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/334054851",
+        "cables": "6",
+        "frequency": "50",
+        "layer": "-1",
+        "line": "busbar",
+        "location": "indoor",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9199124,
+            50.8384514
+          ],
+          [
+            12.9198889,
+            50.8384627
+          ],
+          [
+            12.9198244,
+            50.8384957
+          ],
+          [
+            12.9198002,
+            50.8385081
+          ]
+        ]
+      },
+      "id": "way/334054851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/337658064",
+        "cables": "3",
+        "circuits": "1",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "note": "Kabel: NA2XS(F)2Y 3x1x150 RE verseilt",
+        "operator": "ENSO Netz",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5857953,
+            51.0015241
+          ],
+          [
+            13.586403,
+            51.0011381
+          ],
+          [
+            13.5869761,
+            51.0015135
+          ],
+          [
+            13.5875112,
+            51.0017724
+          ],
+          [
+            13.5878579,
+            51.0021659
+          ],
+          [
+            13.5879406,
+            51.0021925
+          ],
+          [
+            13.5885207,
+            51.002033
+          ],
+          [
+            13.5889087,
+            51.0018876
+          ],
+          [
+            13.5891626,
+            51.0017673
+          ],
+          [
+            13.5893446,
+            51.0015924
+          ],
+          [
+            13.5895591,
+            51.0013697
+          ],
+          [
+            13.5897374,
+            51.0014368
+          ],
+          [
+            13.590037,
+            51.001356
+          ],
+          [
+            13.5901212,
+            51.0013735
+          ],
+          [
+            13.5905171,
+            51.0016382
+          ],
+          [
+            13.590851,
+            51.0018123
+          ],
+          [
+            13.5912841,
+            51.0020081
+          ]
+        ]
+      },
+      "id": "way/337658064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/337658066",
+        "cables": "3",
+        "circuits": "1",
+        "frequency": "50",
+        "note": "Kabel: NA2XS(F)2Y 3x1x150 RE verseilt",
+        "operator": "ENSO Netz",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5882322,
+            50.9983567
+          ],
+          [
+            13.5877542,
+            50.9987684
+          ],
+          [
+            13.5871735,
+            51.0000646
+          ],
+          [
+            13.5867633,
+            51.0005915
+          ],
+          [
+            13.5864008,
+            51.0011367
+          ],
+          [
+            13.5857996,
+            51.0015188
+          ],
+          [
+            13.5857953,
+            51.0015241
+          ]
+        ]
+      },
+      "id": "way/337658066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355331933",
+        "cables": "3",
+        "circuits": "1",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000",
+        "wires": "single"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.71782,
+            51.0505436
+          ],
+          [
+            13.7177339,
+            51.0506575
+          ],
+          [
+            13.7195321,
+            51.0517696
+          ],
+          [
+            13.7199994,
+            51.0525006
+          ],
+          [
+            13.7198852,
+            51.0525282
+          ]
+        ]
+      },
+      "id": "way/355331933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378369400",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.7740763,
+            51.2471804
+          ],
+          [
+            13.7710617,
+            51.2463556
+          ]
+        ]
+      },
+      "id": "way/378369400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378369401",
+        "cables": "3w",
+        "circuits": "1",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.504117,
+            51.2704322
+          ],
+          [
+            13.5024504,
+            51.2693508
+          ]
+        ]
+      },
+      "id": "way/378369401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378369404",
+        "layer": "-2",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "medium"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3220404,
+            51.5146111
+          ],
+          [
+            12.3236318,
+            51.509568
+          ]
+        ]
+      },
+      "id": "way/378369404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/386594898",
+        "cables": "6",
+        "circuits": "2",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000",
+        "wires": "single"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9188373,
+            50.8569171
+          ],
+          [
+            12.9210644,
+            50.8579056
+          ]
+        ]
+      },
+      "id": "way/386594898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/404583601",
+        "cables": "3",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "20000",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO",
+        "wires": "single"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6988901,
+            50.9085868
+          ],
+          [
+            13.6992769,
+            50.9090593
+          ],
+          [
+            13.6998083,
+            50.9095108
+          ],
+          [
+            13.6995931,
+            50.9097227
+          ],
+          [
+            13.7000704,
+            50.9100414
+          ],
+          [
+            13.7003065,
+            50.9104204
+          ]
+        ]
+      },
+      "id": "way/404583601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411934164",
+        "cables": "3",
+        "operator": "ENSO Netz",
+        "power": "cable",
+        "ref": "0119",
+        "voltage": "20000",
+        "wires": "single"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.639923,
+            50.8430921
+          ],
+          [
+            13.6395062,
+            50.8433221
+          ],
+          [
+            13.6397201,
+            50.8437959
+          ]
+        ]
+      },
+      "id": "way/411934164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/411934167",
+        "cables": "3",
+        "operator": "ENSO Netz",
+        "power": "cable",
+        "voltage": "20000",
+        "wires": "single"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6399134,
+            50.8430842
+          ],
+          [
+            13.6395031,
+            50.8432946
+          ]
+        ]
+      },
+      "id": "way/411934167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434939988",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4828188,
+            51.0320289
+          ],
+          [
+            13.4832742,
+            51.0320651
+          ]
+        ]
+      },
+      "id": "way/434939988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435921601",
+        "cables": "3",
+        "circuits": "1",
+        "description": "genauer Verlauf unbekannt",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "note": "Leiterquerschnitt Al 120mm²; Vogelschutz Aug/Sep 2015",
+        "operator": "ENSO Netz",
+        "power": "cable",
+        "voltage": "21000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4756639,
+            51.030032
+          ],
+          [
+            13.4755556,
+            51.0300474
+          ],
+          [
+            13.4752337,
+            51.0297556
+          ],
+          [
+            13.4736539,
+            51.0295751
+          ],
+          [
+            13.4738014,
+            51.0298855
+          ],
+          [
+            13.4737459,
+            51.0299088
+          ]
+        ]
+      },
+      "id": "way/435921601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437161361",
+        "cables": "3",
+        "circuits": "1",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "ENSO Netz",
+        "power": "cable",
+        "ref": "4750",
+        "source": "bing",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4828371,
+            51.0582167
+          ],
+          [
+            13.4802932,
+            51.0603683
+          ]
+        ]
+      },
+      "id": "way/437161361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445236661",
+        "layer": "-1",
+        "location": "underground",
+        "note": "Lage u.U. ungenau",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9903544,
+            50.466289
+          ],
+          [
+            12.9890523,
+            50.4675135
+          ],
+          [
+            12.9879005,
+            50.4690846
+          ],
+          [
+            12.9733608,
+            50.4694588
+          ]
+        ]
+      },
+      "id": "way/445236661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/454500439",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5808133,
+            50.7351426
+          ],
+          [
+            13.5797887,
+            50.7353735
+          ],
+          [
+            13.5789384,
+            50.7353955
+          ],
+          [
+            13.5783964,
+            50.7354881
+          ]
+        ]
+      },
+      "id": "way/454500439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/454693282",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "type": "electric",
+        "voltage": "400",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.182962,
+            51.156871
+          ],
+          [
+            14.1829848,
+            51.1567995
+          ],
+          [
+            14.1830562,
+            51.1566768
+          ]
+        ]
+      },
+      "id": "way/454693282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/492642315",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3766019,
+            50.8953909
+          ],
+          [
+            13.3777714,
+            50.894386
+          ],
+          [
+            13.380404,
+            50.8903436
+          ]
+        ]
+      },
+      "id": "way/492642315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/534680379",
+        "cables": "2",
+        "circuits": "1",
+        "communication": "line",
+        "frequency": "0",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "48"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4309954,
+            51.2570715
+          ],
+          [
+            12.431163,
+            51.2569582
+          ]
+        ]
+      },
+      "id": "way/534680379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/657551475",
+        "frequency": "50",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "400",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6890048,
+            51.1572404
+          ],
+          [
+            13.6891089,
+            51.1571036
+          ],
+          [
+            13.6891402,
+            51.1570629
+          ],
+          [
+            13.6891641,
+            51.1570275
+          ],
+          [
+            13.6891776,
+            51.1570074
+          ],
+          [
+            13.6892079,
+            51.1569563
+          ]
+        ]
+      },
+      "id": "way/657551475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/657551476",
+        "frequency": "50",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "400",
+        "was:operator": "ENSO Energie Sachsen Ost",
+        "was:operator:short": "ENSO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6891089,
+            51.1571036
+          ],
+          [
+            13.6890838,
+            51.1570974
+          ]
+        ]
+      },
+      "id": "way/657551476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/682179377",
+        "cables": "3",
+        "description": "Route 11",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "name": "Lützschena - Leipzig Nord",
+        "note": "Taucha-Seehausen-Delitzsch-Delitzsch Biokraftwerk-Lützschena;Rackwitz-Delitzsch-Delitzsch Biokraftwerk-Lützschena 2;3",
+        "operator": "Mitnetz Strom",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2865205,
+            51.41337
+          ],
+          [
+            12.2864801,
+            51.4133194
+          ],
+          [
+            12.2864537,
+            51.4132516
+          ],
+          [
+            12.286475,
+            51.4131009
+          ],
+          [
+            12.2865543,
+            51.4129334
+          ],
+          [
+            12.2866697,
+            51.4128028
+          ],
+          [
+            12.2870794,
+            51.4124896
+          ],
+          [
+            12.2872148,
+            51.4123654
+          ],
+          [
+            12.2873255,
+            51.4122265
+          ],
+          [
+            12.2874068,
+            51.4120819
+          ],
+          [
+            12.287454,
+            51.4119329
+          ],
+          [
+            12.2881786,
+            51.4087302
+          ],
+          [
+            12.2897046,
+            51.4015699
+          ],
+          [
+            12.2896638,
+            51.4014446
+          ],
+          [
+            12.2895855,
+            51.4013293
+          ],
+          [
+            12.2894934,
+            51.4012338
+          ],
+          [
+            12.2894397,
+            51.4011658
+          ],
+          [
+            12.2894262,
+            51.4010778
+          ]
+        ]
+      },
+      "id": "way/682179377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684105698",
+        "layer": "-2",
+        "location": "underground",
+        "operator": "enviaM",
+        "power": "cable",
+        "source": "bing",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.430022,
+            51.4012961
+          ],
+          [
+            12.4299172,
+            51.4013777
+          ],
+          [
+            12.4299413,
+            51.402288
+          ],
+          [
+            12.4283051,
+            51.4042373
+          ],
+          [
+            12.4283615,
+            51.4074264
+          ],
+          [
+            12.4284205,
+            51.4074548
+          ],
+          [
+            12.4301907,
+            51.407495
+          ],
+          [
+            12.4300963,
+            51.407652
+          ]
+        ]
+      },
+      "id": "way/684105698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684105699",
+        "layer": "-2",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4351475,
+            51.4072428
+          ],
+          [
+            12.4293682,
+            51.4072712
+          ],
+          [
+            12.4293647,
+            51.406993
+          ]
+        ]
+      },
+      "id": "way/684105699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684105701",
+        "layer": "-2",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4351394,
+            51.4071074
+          ],
+          [
+            12.4294799,
+            51.4071352
+          ],
+          [
+            12.4294781,
+            51.4069939
+          ]
+        ]
+      },
+      "id": "way/684105701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684105703",
+        "layer": "-2",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4351448,
+            51.4073826
+          ],
+          [
+            12.428965,
+            51.407413
+          ],
+          [
+            12.4289596,
+            51.4069914
+          ]
+        ]
+      },
+      "id": "way/684105703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/711284493",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4861151,
+            50.8093605
+          ],
+          [
+            13.4871894,
+            50.8093752
+          ]
+        ]
+      },
+      "id": "way/711284493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/713811149",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2477726,
+            51.1984353
+          ],
+          [
+            12.2476668,
+            51.1983701
+          ]
+        ]
+      },
+      "id": "way/713811149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/715187931",
+        "description": "Route 6",
+        "fixme": "genauer Kabelverlauf nicht bekannt",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.1886257,
+            51.3985906
+          ],
+          [
+            12.1885777,
+            51.3984984
+          ],
+          [
+            12.1946127,
+            51.3970886
+          ],
+          [
+            12.20867,
+            51.3980538
+          ],
+          [
+            12.2109582,
+            51.3982109
+          ]
+        ]
+      },
+      "id": "way/715187931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/715187932",
+        "description": "Route 4",
+        "fixme": "genauer Kabelverlauf nicht bekannt",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2109853,
+            51.3980761
+          ],
+          [
+            12.2107008,
+            51.3980527
+          ],
+          [
+            12.2104929,
+            51.3981536
+          ],
+          [
+            12.2100443,
+            51.3981275
+          ],
+          [
+            12.2088295,
+            51.3980477
+          ],
+          [
+            12.1946113,
+            51.3970668
+          ],
+          [
+            12.1884342,
+            51.3985185
+          ],
+          [
+            12.1885379,
+            51.3987039
+          ]
+        ]
+      },
+      "id": "way/715187932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/715197274",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.211468,
+            51.3982493
+          ],
+          [
+            12.2116062,
+            51.3982602
+          ]
+        ]
+      },
+      "id": "way/715197274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/715197279",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2114934,
+            51.3981143
+          ],
+          [
+            12.2116287,
+            51.3981251
+          ]
+        ]
+      },
+      "id": "way/715197279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/717958975",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.302554,
+            51.34536
+          ],
+          [
+            12.3026218,
+            51.3453378
+          ],
+          [
+            12.3025165,
+            51.3452038
+          ],
+          [
+            12.3024092,
+            51.3452335
+          ]
+        ]
+      },
+      "id": "way/717958975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/717958977",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3026762,
+            51.3455159
+          ],
+          [
+            12.3027687,
+            51.3454869
+          ],
+          [
+            12.3025252,
+            51.3451816
+          ],
+          [
+            12.3023985,
+            51.3452185
+          ]
+        ]
+      },
+      "id": "way/717958977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/718214535",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2859994,
+            51.4139073
+          ],
+          [
+            12.2860095,
+            51.4139891
+          ]
+        ]
+      },
+      "id": "way/718214535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/718214536",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2862126,
+            51.4138964
+          ],
+          [
+            12.2862214,
+            51.4139816
+          ]
+        ]
+      },
+      "id": "way/718214536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/718214537",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2867503,
+            51.4138714
+          ],
+          [
+            12.2867565,
+            51.4139573
+          ],
+          [
+            12.2862657,
+            51.4139799
+          ]
+        ]
+      },
+      "id": "way/718214537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/718214538",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2869583,
+            51.4138647
+          ],
+          [
+            12.2869644,
+            51.413969
+          ],
+          [
+            12.2862657,
+            51.4140017
+          ]
+        ]
+      },
+      "id": "way/718214538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/763245059",
+        "cables": "3",
+        "line": "busbar",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3236318,
+            51.509568
+          ],
+          [
+            12.3236368,
+            51.5095071
+          ],
+          [
+            12.3236443,
+            51.5094175
+          ],
+          [
+            12.3236538,
+            51.5093024
+          ]
+        ]
+      },
+      "id": "way/763245059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/763245060",
+        "cables": "3",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3236538,
+            51.5093024
+          ],
+          [
+            12.3237011,
+            51.5093032
+          ],
+          [
+            12.3237765,
+            51.5093062
+          ],
+          [
+            12.3237868,
+            51.5093702
+          ]
+        ]
+      },
+      "id": "way/763245060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/763245061",
+        "cables": "3",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3237868,
+            51.5093702
+          ],
+          [
+            12.3237642,
+            51.5094208
+          ],
+          [
+            12.3236909,
+            51.5094188
+          ],
+          [
+            12.3236443,
+            51.5094175
+          ]
+        ]
+      },
+      "id": "way/763245061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/820261285",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.7297777,
+            51.023651
+          ],
+          [
+            13.7297986,
+            51.023808
+          ]
+        ]
+      },
+      "id": "way/820261285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/820261286",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.7296068,
+            51.0236607
+          ],
+          [
+            13.7296323,
+            51.0238181
+          ]
+        ]
+      },
+      "id": "way/820261286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269210",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8425828,
+            50.9900632
+          ],
+          [
+            13.8427036,
+            50.9901434
+          ]
+        ]
+      },
+      "id": "way/821269210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269212",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8431743,
+            50.9897323
+          ],
+          [
+            13.8432811,
+            50.9898009
+          ],
+          [
+            13.8427036,
+            50.9901434
+          ]
+        ]
+      },
+      "id": "way/821269212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269213",
+        "cables": "6",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8427036,
+            50.9901434
+          ],
+          [
+            13.8421318,
+            50.990483
+          ]
+        ]
+      },
+      "id": "way/821269213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269214",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8420035,
+            50.9903983
+          ],
+          [
+            13.8421318,
+            50.990483
+          ]
+        ]
+      },
+      "id": "way/821269214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269215",
+        "cables": "9",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8421318,
+            50.990483
+          ],
+          [
+            13.84159,
+            50.9908021
+          ]
+        ]
+      },
+      "id": "way/821269215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269216",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8414102,
+            50.9906831
+          ],
+          [
+            13.84159,
+            50.9908021
+          ]
+        ]
+      },
+      "id": "way/821269216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269217",
+        "cables": "6",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.84159,
+            50.9908021
+          ],
+          [
+            13.8406565,
+            50.9913575
+          ]
+        ]
+      },
+      "id": "way/821269217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269218",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8404862,
+            50.991243
+          ],
+          [
+            13.8406565,
+            50.9913575
+          ]
+        ]
+      },
+      "id": "way/821269218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269219",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8403817,
+            50.991304
+          ],
+          [
+            13.8405546,
+            50.9914192
+          ],
+          [
+            13.8406565,
+            50.9913575
+          ]
+        ]
+      },
+      "id": "way/821269219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269220",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8398048,
+            50.9917303
+          ],
+          [
+            13.8398251,
+            50.991745
+          ],
+          [
+            13.8397003,
+            50.9918184
+          ],
+          [
+            13.8395717,
+            50.9917302
+          ],
+          [
+            13.839353,
+            50.9918581
+          ]
+        ]
+      },
+      "id": "way/821269220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269221",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8399167,
+            50.9916638
+          ],
+          [
+            13.8399484,
+            50.9916859
+          ],
+          [
+            13.8396735,
+            50.9918438
+          ],
+          [
+            13.8396024,
+            50.991794
+          ],
+          [
+            13.8394147,
+            50.991902
+          ]
+        ]
+      },
+      "id": "way/821269221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269237",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8400013,
+            50.9905174
+          ],
+          [
+            13.8399688,
+            50.9904968
+          ],
+          [
+            13.8396643,
+            50.9906766
+          ],
+          [
+            13.8397126,
+            50.9907078
+          ],
+          [
+            13.839655,
+            50.9907424
+          ]
+        ]
+      },
+      "id": "way/821269237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269238",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8399107,
+            50.9906074
+          ],
+          [
+            13.8398736,
+            50.990582
+          ],
+          [
+            13.8397126,
+            50.9906757
+          ],
+          [
+            13.8398239,
+            50.9907534
+          ],
+          [
+            13.8397408,
+            50.9908015
+          ]
+        ]
+      },
+      "id": "way/821269238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269259",
+        "fixme": "genauer Kabelverlauf unbekannt",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8394692,
+            50.9909518
+          ],
+          [
+            13.8392546,
+            50.990809
+          ],
+          [
+            13.8348294,
+            50.9934288
+          ],
+          [
+            13.8354034,
+            50.9938272
+          ],
+          [
+            13.8347355,
+            50.9942104
+          ],
+          [
+            13.8347793,
+            50.9942403
+          ]
+        ]
+      },
+      "id": "way/821269259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821269261",
+        "cables": "3",
+        "fixme": "genauer Kabelverlauf unbekannt",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "DB Energie GmbH",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8391725,
+            50.9912869
+          ],
+          [
+            13.8390961,
+            50.9912894
+          ],
+          [
+            13.8388144,
+            50.991091
+          ],
+          [
+            13.8348616,
+            50.9934296
+          ],
+          [
+            13.8355174,
+            50.9938871
+          ],
+          [
+            13.8354342,
+            50.9939344
+          ],
+          [
+            13.8353127,
+            50.993925
+          ]
+        ]
+      },
+      "id": "way/821269261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821682685",
+        "cables": "3",
+        "fixme": "genauer Kabelverlauf unbekannt",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "DB Energie GmbH",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8390858,
+            50.9913396
+          ],
+          [
+            13.8390114,
+            50.9913434
+          ],
+          [
+            13.8387445,
+            50.9911522
+          ],
+          [
+            13.8348888,
+            50.99343
+          ],
+          [
+            13.8355482,
+            50.9938888
+          ],
+          [
+            13.8351821,
+            50.9940981
+          ],
+          [
+            13.8350337,
+            50.9940813
+          ]
+        ]
+      },
+      "id": "way/821682685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821705743",
+        "frequency": "16.7",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "15000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8345045,
+            50.995207
+          ],
+          [
+            13.8343415,
+            50.9952526
+          ],
+          [
+            13.8342678,
+            50.9951534
+          ]
+        ]
+      },
+      "id": "way/821705743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821705744",
+        "frequency": "16.7",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "15000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8346212,
+            50.995175
+          ],
+          [
+            13.8345897,
+            50.995172
+          ],
+          [
+            13.8343831,
+            50.9952294
+          ],
+          [
+            13.8343154,
+            50.9951387
+          ]
+        ]
+      },
+      "id": "way/821705744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821705745",
+        "frequency": "16.7",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "15000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8347318,
+            50.995134
+          ],
+          [
+            13.834703,
+            50.9951302
+          ],
+          [
+            13.8344327,
+            50.9952045
+          ],
+          [
+            13.8343717,
+            50.9951231
+          ]
+        ]
+      },
+      "id": "way/821705745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/822062643",
+        "cables": "2",
+        "frequency": "16.7",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "DB Energie GmbH",
+        "power": "cable",
+        "voltage": "15000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9393158,
+            50.8625417
+          ],
+          [
+            12.939343,
+            50.8625123
+          ],
+          [
+            12.9396595,
+            50.8626258
+          ],
+          [
+            12.9396099,
+            50.8626782
+          ]
+        ]
+      },
+      "id": "way/822062643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/822062644",
+        "cables": "2",
+        "frequency": "16.7",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "DB Energie GmbH",
+        "power": "cable",
+        "voltage": "15000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9391499,
+            50.8624822
+          ],
+          [
+            12.9391888,
+            50.8624395
+          ],
+          [
+            12.9396917,
+            50.862619
+          ],
+          [
+            12.93963,
+            50.8626867
+          ]
+        ]
+      },
+      "id": "way/822062644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/822064691",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0948739,
+            51.1232666
+          ],
+          [
+            13.0946502,
+            51.123328
+          ]
+        ]
+      },
+      "id": "way/822064691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/822064692",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0954482,
+            51.1231041
+          ],
+          [
+            13.0950311,
+            51.1232261
+          ],
+          [
+            13.0949895,
+            51.123269
+          ],
+          [
+            13.0947682,
+            51.1233305
+          ],
+          [
+            13.0947186,
+            51.1233229
+          ],
+          [
+            13.0946596,
+            51.1233389
+          ]
+        ]
+      },
+      "id": "way/822064692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823248769",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9495916,
+            50.8469374
+          ],
+          [
+            12.9495022,
+            50.8468285
+          ]
+        ]
+      },
+      "id": "way/823248769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823248770",
+        "cables": "6",
+        "circuits": "2",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9471477,
+            50.8422567
+          ],
+          [
+            12.9198889,
+            50.8384627
+          ]
+        ]
+      },
+      "id": "way/823248770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823248771",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9496809,
+            50.8467947
+          ],
+          [
+            12.9495022,
+            50.8468285
+          ]
+        ]
+      },
+      "id": "way/823248771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823263649",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "10000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9468854,
+            50.8418234
+          ],
+          [
+            12.9466507,
+            50.8418751
+          ]
+        ]
+      },
+      "id": "way/823263649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823263654",
+        "cables": "3",
+        "fixme": "Start/Ziel nicht bekannt. Verlauf nicht bekannt.",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9470356,
+            50.8418657
+          ],
+          [
+            12.9470611,
+            50.8419132
+          ],
+          [
+            12.947218,
+            50.8418784
+          ],
+          [
+            12.9473615,
+            50.8421494
+          ]
+        ]
+      },
+      "id": "way/823263654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823263656",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "10000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9470329,
+            50.8420935
+          ],
+          [
+            12.9469176,
+            50.842119
+          ],
+          [
+            12.9468921,
+            50.8420715
+          ],
+          [
+            12.94677,
+            50.8420969
+          ]
+        ]
+      },
+      "id": "way/823263656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823263658",
+        "cables": "3",
+        "fixme": "Start/Ziel nicht bekannt. Verlauf nicht bekannt.",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9471804,
+            50.8421308
+          ],
+          [
+            12.9471965,
+            50.8421621
+          ],
+          [
+            12.9473038,
+            50.8421384
+          ],
+          [
+            12.9473145,
+            50.8421604
+          ]
+        ]
+      },
+      "id": "way/823263658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/995221243",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2425018,
+            50.5669568
+          ],
+          [
+            12.242331,
+            50.5669634
+          ]
+        ]
+      },
+      "id": "way/995221243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/995221244",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "note": "genaue Kabellage nicht bekannt",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2422035,
+            50.5687888
+          ],
+          [
+            12.242196,
+            50.5686756
+          ],
+          [
+            12.2423534,
+            50.5686699
+          ],
+          [
+            12.2422926,
+            50.5679794
+          ],
+          [
+            12.2428451,
+            50.5679567
+          ],
+          [
+            12.2427262,
+            50.5667559
+          ],
+          [
+            12.2428086,
+            50.5667534
+          ]
+        ]
+      },
+      "id": "way/995221244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/995463333",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2421584,
+            50.56833
+          ],
+          [
+            12.2421484,
+            50.5682194
+          ],
+          [
+            12.2422682,
+            50.5682149
+          ],
+          [
+            12.2422432,
+            50.5679457
+          ],
+          [
+            12.2427868,
+            50.5679201
+          ],
+          [
+            12.242633,
+            50.5663079
+          ],
+          [
+            12.2427457,
+            50.5663039
+          ]
+        ]
+      },
+      "id": "way/995463333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/995535451",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2655124,
+            50.5482553
+          ],
+          [
+            12.2655035,
+            50.5482911
+          ],
+          [
+            12.265651,
+            50.548307
+          ],
+          [
+            12.2656394,
+            50.5483519
+          ]
+        ]
+      },
+      "id": "way/995535451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/995535452",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2656975,
+            50.5482741
+          ],
+          [
+            12.2656885,
+            50.548307
+          ],
+          [
+            12.265769,
+            50.548315
+          ],
+          [
+            12.2657547,
+            50.5483615
+          ]
+        ]
+      },
+      "id": "way/995535452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/998620242",
+        "cables": "3",
+        "fixme": "Lage des Erdkabels nicht bekannt.",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "MITNETZ Strom",
+        "operator:wikidata": "Q56199578",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.1491938,
+            50.498511
+          ],
+          [
+            12.1493118,
+            50.4984343
+          ],
+          [
+            12.1493101,
+            50.4983785
+          ],
+          [
+            12.1485483,
+            50.4978894
+          ],
+          [
+            12.1476069,
+            50.497766
+          ],
+          [
+            12.1472278,
+            50.4975044
+          ],
+          [
+            12.1466359,
+            50.4970102
+          ],
+          [
+            12.1449032,
+            50.495346
+          ],
+          [
+            12.1430194,
+            50.4945054
+          ],
+          [
+            12.1420815,
+            50.493861
+          ],
+          [
+            12.1402692,
+            50.4924675
+          ],
+          [
+            12.1387422,
+            50.4915659
+          ],
+          [
+            12.1384766,
+            50.491484
+          ],
+          [
+            12.135224,
+            50.4907753
+          ],
+          [
+            12.1335065,
+            50.4905762
+          ],
+          [
+            12.1289503,
+            50.4881974
+          ],
+          [
+            12.12675,
+            50.4880165
+          ],
+          [
+            12.1266972,
+            50.4880427
+          ],
+          [
+            12.1266579,
+            50.4882338
+          ]
+        ]
+      },
+      "id": "way/998620242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1000671769",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.1960215,
+            50.4370973
+          ],
+          [
+            12.1958752,
+            50.4369721
+          ]
+        ]
+      },
+      "id": "way/1000671769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1000671770",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.1956147,
+            50.4372966
+          ],
+          [
+            12.1954469,
+            50.4371549
+          ],
+          [
+            12.1956114,
+            50.4370752
+          ]
+        ]
+      },
+      "id": "way/1000671770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1000671771",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.1953885,
+            50.4374077
+          ],
+          [
+            12.1951894,
+            50.4372375
+          ],
+          [
+            12.1955837,
+            50.4370484
+          ]
+        ]
+      },
+      "id": "way/1000671771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026578549",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "MITNETZ Strom",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2933062,
+            51.1410641
+          ],
+          [
+            12.2933149,
+            51.1410466
+          ],
+          [
+            12.2935288,
+            51.141087
+          ],
+          [
+            12.2935154,
+            51.1411131
+          ]
+        ]
+      },
+      "id": "way/1026578549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026578550",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "MITNETZ Strom",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2930443,
+            51.1410166
+          ],
+          [
+            12.293058,
+            51.140989
+          ],
+          [
+            12.2935804,
+            51.1410887
+          ],
+          [
+            12.293565,
+            51.1411219
+          ]
+        ]
+      },
+      "id": "way/1026578550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1031851576",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "medium"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.351057,
+            51.1402287
+          ],
+          [
+            12.3511793,
+            51.1402294
+          ]
+        ]
+      },
+      "id": "way/1031851576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1031851577",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "medium"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.351059,
+            51.1401437
+          ],
+          [
+            12.3511853,
+            51.1401446
+          ]
+        ]
+      },
+      "id": "way/1031851577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061221380",
+        "circuits": "1",
+        "frequency": "50",
+        "line": "ac_converter",
+        "operator": "DB Energie GmbH",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3694976,
+            51.4032745
+          ],
+          [
+            14.3694869,
+            51.4031367
+          ],
+          [
+            14.3699422,
+            51.4031279
+          ],
+          [
+            14.3699552,
+            51.4033754
+          ],
+          [
+            14.3702453,
+            51.4033685
+          ],
+          [
+            14.3702459,
+            51.403363
+          ]
+        ]
+      },
+      "id": "way/1061221380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061221381",
+        "circuits": "1",
+        "frequency": "50",
+        "line": "ac_converter",
+        "operator": "DB Energie GmbH",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3696822,
+            51.40327
+          ],
+          [
+            14.3696773,
+            51.4031392
+          ],
+          [
+            14.3699288,
+            51.4031355
+          ],
+          [
+            14.3699408,
+            51.4033802
+          ],
+          [
+            14.3705262,
+            51.4033668
+          ],
+          [
+            14.3705249,
+            51.4033555
+          ]
+        ]
+      },
+      "id": "way/1061221381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061221385",
+        "circuits": "1",
+        "frequency": "50",
+        "line": "ac_converter",
+        "operator": "DB Energie GmbH",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3698718,
+            51.4032654
+          ],
+          [
+            14.3698637,
+            51.4031436
+          ],
+          [
+            14.3699123,
+            51.4031424
+          ],
+          [
+            14.3699294,
+            51.4033873
+          ],
+          [
+            14.3707931,
+            51.4033681
+          ],
+          [
+            14.3707931,
+            51.4033488
+          ]
+        ]
+      },
+      "id": "way/1061221385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1069435414",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2654419,
+            51.5241375
+          ],
+          [
+            14.2654479,
+            51.5240324
+          ]
+        ]
+      },
+      "id": "way/1069435414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1069435415",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2651931,
+            51.5241342
+          ],
+          [
+            14.2651951,
+            51.5240624
+          ],
+          [
+            14.265411,
+            51.5240628
+          ],
+          [
+            14.2654124,
+            51.5240311
+          ]
+        ]
+      },
+      "id": "way/1069435415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1081252156",
+        "operator": "MITNETZ Strom",
+        "operator:wikidata": "Q56199578",
+        "power": "cable",
+        "voltage": "400"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7333695,
+            50.9457611
+          ],
+          [
+            12.7334468,
+            50.9456219
+          ]
+        ]
+      },
+      "id": "way/1081252156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1082462240",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9599738,
+            50.8575383
+          ],
+          [
+            12.9599416,
+            50.8575214
+          ],
+          [
+            12.9599376,
+            50.8575002
+          ],
+          [
+            12.9599778,
+            50.8574367
+          ],
+          [
+            12.9599778,
+            50.8574079
+          ],
+          [
+            12.9599463,
+            50.8573872
+          ]
+        ]
+      },
+      "id": "way/1082462240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1082462241",
+        "cables": "6",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9599463,
+            50.8573872
+          ],
+          [
+            12.9599416,
+            50.8573677
+          ],
+          [
+            12.9599516,
+            50.8573449
+          ],
+          [
+            12.9600133,
+            50.8572733
+          ]
+        ]
+      },
+      "id": "way/1082462241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1082462242",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9600522,
+            50.8574168
+          ],
+          [
+            12.9599858,
+            50.8574041
+          ],
+          [
+            12.9599463,
+            50.8573872
+          ]
+        ]
+      },
+      "id": "way/1082462242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1172413759",
+        "power": "cable",
+        "source": "extrapolated"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1778832,
+            51.0024683
+          ],
+          [
+            13.1784946,
+            51.0008571
+          ]
+        ]
+      },
+      "id": "way/1172413759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206154292",
+        "cables": "6",
+        "circuits": "2",
+        "frequency": "50",
+        "layer": "-5",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8998797,
+            50.7992329
+          ],
+          [
+            12.9003462,
+            50.7993
+          ],
+          [
+            12.906034,
+            50.7988638
+          ],
+          [
+            12.9068611,
+            50.7979688
+          ],
+          [
+            12.9084682,
+            50.7974955
+          ],
+          [
+            12.9109707,
+            50.7976408
+          ]
+        ]
+      },
+      "id": "way/1206154292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206170264",
+        "cables": "6",
+        "circuits": "2",
+        "frequency": "50",
+        "layer": "-5",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9036477,
+            50.8063561
+          ],
+          [
+            12.9037794,
+            50.806335
+          ],
+          [
+            12.903739,
+            50.806182
+          ],
+          [
+            12.9031844,
+            50.806243
+          ],
+          [
+            12.903003,
+            50.8055747
+          ],
+          [
+            12.9030685,
+            50.8045288
+          ],
+          [
+            12.9054741,
+            50.8019985
+          ],
+          [
+            12.903422,
+            50.8018839
+          ],
+          [
+            12.8999056,
+            50.8021979
+          ],
+          [
+            12.9009526,
+            50.8002845
+          ],
+          [
+            12.9007941,
+            50.7993857
+          ],
+          [
+            12.8997257,
+            50.799793
+          ],
+          [
+            12.8993376,
+            50.7994552
+          ]
+        ]
+      },
+      "id": "way/1206170264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206219996",
+        "cables": "6",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "indoor",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9198657,
+            50.8384137
+          ],
+          [
+            12.9199124,
+            50.8384514
+          ]
+        ]
+      },
+      "id": "way/1206219996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206219997",
+        "cables": "6",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "indoor",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9198002,
+            50.8385081
+          ],
+          [
+            12.9197477,
+            50.8384679
+          ]
+        ]
+      },
+      "id": "way/1206219997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206219999",
+        "cables": "6",
+        "circuits": "2",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.920605,
+            50.8535408
+          ],
+          [
+            12.9184292,
+            50.8554583
+          ],
+          [
+            12.9190821,
+            50.8557921
+          ],
+          [
+            12.9190262,
+            50.8560702
+          ]
+        ]
+      },
+      "id": "way/1206219999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206220000",
+        "cables": "6",
+        "circuits": "2",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9198244,
+            50.8384957
+          ],
+          [
+            12.9206169,
+            50.8534938
+          ]
+        ]
+      },
+      "id": "way/1206220000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206426928",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-5",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9366875,
+            50.8615354
+          ],
+          [
+            12.9368573,
+            50.8617376
+          ]
+        ]
+      },
+      "id": "way/1206426928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206426929",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-5",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9372934,
+            50.8618927
+          ],
+          [
+            12.9372203,
+            50.8619068
+          ],
+          [
+            12.9368126,
+            50.8617658
+          ],
+          [
+            12.9366155,
+            50.8616085
+          ]
+        ]
+      },
+      "id": "way/1206426929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1215137348",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5332938,
+            51.2768576
+          ],
+          [
+            13.5332996,
+            51.2768913
+          ],
+          [
+            13.5329953,
+            51.2769119
+          ],
+          [
+            13.5329786,
+            51.2768154
+          ],
+          [
+            13.5329039,
+            51.2768204
+          ]
+        ]
+      },
+      "id": "way/1215137348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1215137349",
+        "cables": "3",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5338368,
+            51.2768225
+          ],
+          [
+            13.5338457,
+            51.2768741
+          ],
+          [
+            13.532963,
+            51.2769339
+          ],
+          [
+            13.5329488,
+            51.2768517
+          ],
+          [
+            13.5329097,
+            51.2768544
+          ]
+        ]
+      },
+      "id": "way/1215137349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1232123852",
+        "circuits": "2",
+        "layer": "-1",
+        "location": "underground",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2110111,
+            50.7019455
+          ],
+          [
+            13.2035835,
+            50.6933193
+          ],
+          [
+            13.2033786,
+            50.6930551
+          ],
+          [
+            13.1960241,
+            50.6889662
+          ],
+          [
+            13.1939239,
+            50.684265
+          ],
+          [
+            13.1934641,
+            50.6836995
+          ],
+          [
+            13.1931646,
+            50.6825357
+          ],
+          [
+            13.1926426,
+            50.6814558
+          ],
+          [
+            13.1924304,
+            50.6809412
+          ],
+          [
+            13.1923133,
+            50.6803986
+          ],
+          [
+            13.1924231,
+            50.6801761
+          ],
+          [
+            13.1927231,
+            50.6800323
+          ],
+          [
+            13.1933525,
+            50.6799489
+          ],
+          [
+            13.1947423,
+            50.6789773
+          ],
+          [
+            13.1952033,
+            50.6783431
+          ],
+          [
+            13.1952971,
+            50.6776231
+          ],
+          [
+            13.1951151,
+            50.6772247
+          ],
+          [
+            13.1947621,
+            50.6769346
+          ],
+          [
+            13.1931351,
+            50.676344
+          ],
+          [
+            13.1915247,
+            50.6757603
+          ],
+          [
+            13.1911938,
+            50.6755716
+          ],
+          [
+            13.1900686,
+            50.6743588
+          ],
+          [
+            13.189644,
+            50.6742364
+          ],
+          [
+            13.1894344,
+            50.6741945
+          ],
+          [
+            13.1887946,
+            50.6730865
+          ],
+          [
+            13.1884803,
+            50.6728733
+          ],
+          [
+            13.1866492,
+            50.6694863
+          ],
+          [
+            13.1857943,
+            50.6679412
+          ],
+          [
+            13.1854358,
+            50.666931
+          ],
+          [
+            13.1850608,
+            50.6659207
+          ],
+          [
+            13.1848733,
+            50.6656131
+          ],
+          [
+            13.1846637,
+            50.6654103
+          ],
+          [
+            13.184057,
+            50.6647636
+          ],
+          [
+            13.1838806,
+            50.6643721
+          ],
+          [
+            13.1830478,
+            50.6628863
+          ],
+          [
+            13.1826893,
+            50.662243
+          ],
+          [
+            13.1805141,
+            50.6582787
+          ]
+        ]
+      },
+      "id": "way/1232123852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1234613155",
+        "cables": "3",
+        "circuits": "1",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5071633,
+            51.2789809
+          ],
+          [
+            13.5076429,
+            51.2783969
+          ]
+        ]
+      },
+      "id": "way/1234613155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1234613156",
+        "cables": "3",
+        "circuits": "1",
+        "frequency": "50",
+        "layer": "-1",
+        "location": "underground",
+        "operator": "SachsenEnergie",
+        "power": "cable",
+        "voltage": "20000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5057406,
+            51.2855583
+          ],
+          [
+            13.5057482,
+            51.2855746
+          ]
+        ]
+      },
+      "id": "way/1234613156"
+    }
+  ]
+}

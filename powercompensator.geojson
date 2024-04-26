@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-04-26T08:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3366922334",
+        "compensator": "petersen_coil",
+        "frequency": "16.7",
+        "location": "outdoor",
+        "operator": "DB Energie GmbH",
+        "phases": "1",
+        "power": "compensator",
+        "rating": "100 A",
+        "source": "Zeitschrift \"Elektrische Bahnen\", 2003-08, Seite 354",
+        "voltage": "110000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8346732,
+          50.9943766
+        ]
+      },
+      "id": "node/3366922334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10794833533",
+        "name": "SPA 20kV",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "power": "compensator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5336697,
+          51.276837
+        ]
+      },
+      "id": "node/10794833533"
+    }
+  ]
+}
